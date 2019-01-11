@@ -1,0 +1,4 @@
+Equivalent INR value of 30.0 USD = 2115.6
+Equivalent INR value of 50.0 EUR = 4064.5000000000005
+Equivalent INR value of 20.0 UKP = 1793.4
+

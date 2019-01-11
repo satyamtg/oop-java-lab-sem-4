@@ -1,0 +1,6 @@
+Phone Number : 1234567890
+Name : Mukesh Modi
+Hire Charge : 100.25
+Units Consumed : 100.0
+Bill Amount : Rs. 200.25
+
