@@ -1,0 +1,12 @@
+satyam@satyam-GL553VD:~/git/oop-java-lab-sem-4/solutions/assignment-03$ java Validate Satyam Kumar 31/03/1999 io.satyamtg@gmail.com
+First name: Satyam
+Last name: Kumar
+Date: 31/03/1999
+Domain name: io.satyamtg@gmail.com
+
+satyam@satyam-GL553VD:~/git/oop-java-lab-sem-4/solutions/assignment-03$ java Validate Satyam Kumar 34/04/17 io.satyamtg@gmail.com
+First name: Satyam
+Last name: Kumar
+Date: Please enter a valid date
+Domain name: io.satyamtg@gmail.com
+

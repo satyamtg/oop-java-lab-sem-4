@@ -1,0 +1,2 @@
+GCD of 4 and 5 is 1
+Factorial of 6 is 720

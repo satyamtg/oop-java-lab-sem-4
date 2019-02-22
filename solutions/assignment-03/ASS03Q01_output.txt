@@ -1,0 +1,11 @@
+Enter the value to insert :
+5
+Enter the value to insert :
+6
+The value deleted is 6
+Enter the value to insert :
+7
+Enter the value to insert :
+8
+The value deleted is 7
+

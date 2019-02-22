@@ -1,0 +1,11 @@
+satyam@satyam-GL553VD:~/git/oop-java-lab-sem-4/solutions/assignment-03$ java Main
+ID : M01
+Name : John Doe
+Salary : 5450.0
+ID : C01
+Name : Clerk Doe
+Salary : 2900.0
+ID : O01
+Name : Officer Doe
+Salary : 30500.0
+
